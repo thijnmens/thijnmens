@@ -6,8 +6,8 @@
 
 ## 🎓 I'm an Junior Programmer at Fontys Eindhoven
 
-- 🔭 I’m currently developing an all-in-one game launcher.
-- 🌱 I’m currently learning how to code properly. 
+- 🔭 Currently developing a ranking system.
+- 🌱 Still learning how to code properly. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
 - ⚡ Fun fact: I love being inside and playing games with my friends.
