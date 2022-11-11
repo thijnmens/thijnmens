@@ -22,6 +22,10 @@
 
 <br />
 
+## 💵 Support me on ko-fi:
+[ko-fi.com/thijnmens](ko-fi.com/thijnmens)
+
+<br />
 
 ## 🧰 Languages and Tools:
 <p align="center">
