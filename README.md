@@ -10,7 +10,6 @@
 - 🌱 Still learning how to code properly. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
-- ⚡ Fun fact: I love being inside and playing games with my friends.
 - 🌳 Outside is scary.
 
 ## 📧 Find me on:
