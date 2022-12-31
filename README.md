@@ -4,9 +4,9 @@
 
 
 
-## 🎓 I'm an Junior Programmer at Fontys Eindhoven
+## 🎓 I'm an Learning Programmer at Fontys Eindhoven
 
-- 🔭 Currently developing a ranking system.
+- 🔭 Currently developing mods for ADOFAI.
 - 🌱 Still learning how to code properly. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything.
