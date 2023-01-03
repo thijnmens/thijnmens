@@ -4,7 +4,7 @@
 
 
 
-## 🎓 I'm an Learning Programmer at Fontys Eindhoven
+## 🎓 I'm a learning programmer at Fontys Eindhoven
 
 - 🔭 Currently developing mods for ADOFAI.
 - 🌱 Still learning how to code properly. 
