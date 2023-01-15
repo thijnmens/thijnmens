@@ -54,10 +54,10 @@
 host borked
 <div>
 <a href="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl">
-  <img  align="left" src="https://gitstats-five.vercel.app/api?username=thijnmens&count_private=true&show_icons=true&theme=nightowl" />
+  <img  align="left" src="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl&count_private=true&show_icons=true" />
 </a>
-<a href="https://gitstats-five.vercel.app/api/top-langs/?username=thijnmens&hide=php&theme=nightowl">
-  <img align="left" src="https://gitstats-five.vercel.app/api/top-langs/?username=thijnmens&hide=php&theme=nightowl" />
+<a href="https://gitstats-five.vercel.app/api/top-langs/?username=thijnmens&theme=nightowl">
+  <img align="left" src="https://gitstats-five.vercel.app/api/top-langs/?username=thijnmens&theme=nightowl" />
 </a>
 </div>
 
