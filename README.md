@@ -51,7 +51,6 @@
 <br />
 
 ## 🏆 My Github Stats:
-host borked
 <div>
 <a href="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl">
   <img  align="left" src="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl&count_private=true&show_icons=true" />
