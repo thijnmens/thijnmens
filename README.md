@@ -1,16 +1,14 @@
 ## Hi there 👋 I'm **Thijnmens**
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=thijnmens.thijnmens) [![Github](https://img.shields.io/github/followers/thijnmens?label=Followers&logo=Github)](https://github.com/thijnmens)
-
-
-
 
 ## 🎓 I'm a learning programmer at Fontys Eindhoven
 
-- 🔭 Currently developing mods for ADOFAI.
-- 🌱 Still learning how to code properly. 
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything.
-- 🌳 Outside is scary.
+-   🔭 Currently developing mods for ADOFAI.
+-   🌱 Still learning how to code properly.
+-   👯 I’m looking to collaborate with anyone on any project.
+-   💬 Ask me about anything.
+-   🌳 Outside is scary.
 
 ## 📧 Find me on:
 
@@ -22,11 +20,13 @@
 <br />
 
 ## 💵 Support me on ko-fi:
+
 [ko-fi.com/thijnmens](ko-fi.com/thijnmens)
 
 <br />
 
 ## 🧰 Languages and Tools:
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
@@ -51,6 +51,7 @@
 <br />
 
 ## 🏆 My Github Stats:
+
 <div>
 <a href="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl">
   <img  align="left" src="https://gitstats-five.vercel.app/api?username=thijnmens&theme=nightowl&count_private=true&show_icons=true" />
@@ -59,8 +60,6 @@
   <img align="left" src="https://gitstats-five.vercel.app/api/top-langs/?username=thijnmens&theme=nightowl" />
 </a>
 </div>
-
-
 
 [linkedin]: https://linkedin.com/in/thijn-smulders
 [mail]: mailto:thijnsmulders04@gmail.com
