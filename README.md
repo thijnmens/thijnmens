@@ -2,13 +2,12 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thijnmens.thijnmens) [![Github](https://img.shields.io/github/followers/thijnmens?label=Followers&logo=Github)](https://github.com/thijnmens)
 
-## 🎓 I'm a learning programmer at Fontys Eindhoven
+## 🎓 Software Engineering student at Fontys Eindhoven
 
 -   🔭 Currently developing mods for ADOFAI.
 -   🌱 Still learning how to code properly.
 -   👯 I’m looking to collaborate with anyone on any project.
--   💬 Ask me about anything.
--   🌳 Outside is scary.
+-   💬 Ask me anything.
 
 ## 📧 Find me on:
 
