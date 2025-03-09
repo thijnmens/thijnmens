@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=thijnmens.thijnmens) [![Github](https://img.shields.io/github/followers/thijnmens?label=Followers&logo=Github)](https://github.com/thijnmens)
 
-## 🎓 Junior Software Engineer at Philips
+## 🎓 Software Engineering student
 
 -   🔭 Currently developing mods for ADOFAI.
 -   🌱 Slowely improving my skills.
